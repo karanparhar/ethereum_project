@@ -12,7 +12,7 @@ This is sample ethereum_project
 ```
 $ mkdir $GOPATH/src/github.com/
 $ cd $GOPATH/src/github.com/
-$ git clone https://karanjit@bitbucket.org/karanjit/ethereum_project.git
+$ git clone https://github.com/karanparhar/ethereum_project.git
 $ cd ethereum_project
 $ make docker
 ```
